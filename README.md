@@ -1,8 +1,6 @@
 # learn
 
-[![video](assets/thumbnail.png)](https://www.youtube.com/watch?v=kzcI5F4tGiU)
-
-A personal learning system built around two teaching principles: start from truths the learner accepts, and make each new idea feel discoverable. The source video is [here](https://www.youtube.com/watch?v=kzcI5F4tGiU).
+A personal learning system built around two teaching principles: start from truths the learner accepts, and make each new idea feel discoverable.
 
 ## What's included
 
